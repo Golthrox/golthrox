@@ -1,0 +1,7 @@
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\bin\Debug\Décompte.exe.config
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\bin\Debug\Décompte.exe
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\bin\Debug\Décompte.pdb
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\obj\Debug\Décompte.csprojResolveAssemblyReference.cache
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\obj\Debug\Décompte.csproj.CoreCompileInputs.cache
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\obj\Debug\Décompte.exe
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Décompte\obj\Debug\Décompte.pdb

@@ -1,0 +1,7 @@
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\bin\Debug\Tirage de dés.exe.config
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\bin\Debug\Tirage de dés.exe
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\bin\Debug\Tirage de dés.pdb
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\obj\Debug\Tirage de dés.csproj.CoreCompileInputs.cache
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\obj\Debug\Tirage de dés.exe
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\obj\Debug\Tirage de dés.pdb
+C:\Users\Golthrox\Desktop\Developpement\C#\Exercice\Tirage de dés\obj\Debug\Tirage de dés.csprojResolveAssemblyReference.cache
